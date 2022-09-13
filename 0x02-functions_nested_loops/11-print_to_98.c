@@ -20,4 +20,5 @@ while (n > 98)
 }
 
 printf("98");
-putch
+putchar('\n');
+}
